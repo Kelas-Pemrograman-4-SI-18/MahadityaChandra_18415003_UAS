@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:background="@color/putih"
+    tools:context=".pembeli.transaksi">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:fillViewport="true"
+        android:layout_marginBottom="20dp">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:stretchColumns="1">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TRANSAKSI SEMBAKOCAN"
+        android:textSize="28dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+
+        />
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/sembakocan"
+        android:layout_gravity="center"/>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " UserName "
+
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = "@+id/edtusernametransaksi"
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " Kode Sembako 1 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/edtkodesembako1 "
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " Jumlah Beli 1 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/jumlahbeli1 "
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " Kode Sembako 2 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/kodesembako2 "
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+
+
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = " 55dp "
+                app:labelText = " Jumlah Beli 2 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/jumlahbeli2 "
+                    android:inputType="textPassword"
+                    android:layout_width = " wrap_content "
+                    android:layout_height = " wrap_content "
+                    />
+
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " Kode Sembako 3 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/kodesembako3 "
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+
+
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = " 55dp "
+                app:labelText = " Jumlah Beli 3 "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/jumlahbeli3 "
+                    android:inputType="textPassword"
+                    android:layout_width = " wrap_content "
+                    android:layout_height = " wrap_content "
+                    />
+
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+    <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+            android:layout_width = " match_parent "
+            android:layout_height = "55dp "
+            app:labelText = " Alamat Penerima "
+
+            android:layout_marginTop="10dp"
+            >
+
+            <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                android:id = "@+id/alamat"
+                android:layout_width = " wrap_content "
+                android:layout_height = "wrap_content "
+                />
+        </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+            <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
+                android:layout_width = " match_parent "
+                android:layout_height = "55dp "
+                app:labelText = " No Telp Penerima "
+                android:layout_marginTop="10dp"
+                >
+
+                <studio.carbonylgroup.textfieldboxes.ExtendedEditText
+                    android:id = " @+id/noTelppenerima "
+                    android:layout_width = " wrap_content "
+                    android:layout_height = "wrap_content "
+                    />
+            </studio.carbonylgroup.textfieldboxes.TextFieldBoxes>
+
+
+
+
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+    <com.ornach.nobobutton.NoboButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:layout_marginBottom="20dp"
+        app:nb_text="LAKUKAN TRANSAKSI"
+        android:id="@+id/btntransaksi"
+        app:nb_borderColor="#FFFFFF"
+        app:nb_borderWidth="2dp"
+        app:nb_backgroundColor="@color/colorPrimary"
+        app:nb_focusColor="#B83CC3"
+        app:nb_textColor="#FFF"
+        app:nb_radius="5dp"
+        />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kembali"
+                android:background="@null"
+                android:textAllCaps="false"
+                android:id="@+id/btnbackhome"/>
+
+
+
+
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

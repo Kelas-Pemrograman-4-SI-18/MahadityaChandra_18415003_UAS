@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b6928d-eeb2-4833-8891-44c599398b7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ckuHF5ekBNzpYtGeVMxSlD84jM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sembakocan2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\can\Pemrograman 3\apisembakocan\Routes" />
+      <recent name="D:\can\Pemrograman 3\apisembakocan\Model" />
+      <recent name="D:\can\Pemrograman 3\apisembakocan\Controller" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b6928d-eeb2-4833-8891-44c599398b7e" name="Default Changelist" comment="" />
+      <created>1591084822204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591084822204</updated>
+      <workItem from="1591084823473" duration="10116000" />
+      <workItem from="1591166243646" duration="1888000" />
+      <workItem from="1591168908031" duration="5507000" />
+      <workItem from="1591793723250" duration="1155000" />
+      <workItem from="1592030587081" duration="4612000" />
+      <workItem from="1592399782213" duration="39000" />
+      <workItem from="1592401315405" duration="1000000" />
+      <workItem from="1592402329076" duration="217000" />
+      <workItem from="1592402556785" duration="303000" />
+      <workItem from="1592403290086" duration="3121000" />
+      <workItem from="1592454478438" duration="1730000" />
+      <workItem from="1592551984312" duration="126000" />
+      <workItem from="1592553135804" duration="19000" />
+      <workItem from="1593781403200" duration="15407000" />
+      <workItem from="1594214971547" duration="4302000" />
+      <workItem from="1594220556093" duration="2904000" />
+      <workItem from="1594275534634" duration="934000" />
+      <workItem from="1594299826144" duration="5377000" />
+      <workItem from="1594385752055" duration="11017000" />
+      <workItem from="1594473227581" duration="4704000" />
+      <workItem from="1594550839822" duration="434000" />
+      <workItem from="1604036629362" duration="585000" />
+      <workItem from="1604037781699" duration="605000" />
+      <workItem from="1604476560280" duration="1742000" />
+      <workItem from="1604490856204" duration="630000" />
+      <workItem from="1604504789115" duration="616000" />
+      <workItem from="1604555979834" duration="451000" />
+      <workItem from="1604557910481" duration="840000" />
+      <workItem from="1604579680547" duration="3090000" />
+      <workItem from="1604819170997" duration="1244000" />
+      <workItem from="1604826804859" duration="782000" />
+      <workItem from="1605072916440" duration="3404000" />
+      <workItem from="1605105807528" duration="1814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1605105807534">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1605105807534" />
+  </component>
+</project>
